@@ -1,0 +1,16 @@
+.header-container {
+
+width: 100%;
+height: 60px;
+  padding: 10px 20px;
+  border: 1px solid black;
+}
+
+.nav-bar ul{
+    display: flex;
+
+}
+.nav-bar ul li {
+    padding: 10px;
+    list-style: none;
+}

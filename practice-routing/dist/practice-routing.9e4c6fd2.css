@@ -1,0 +1,16 @@
+.header-container {
+  border: 1px solid #000;
+  width: 100%;
+  height: 60px;
+  padding: 10px 20px;
+}
+
+.nav-bar ul {
+  display: flex;
+}
+
+.nav-bar ul li {
+  padding: 10px;
+  list-style: none;
+}
+/*# sourceMappingURL=practice-routing.9e4c6fd2.css.map */
